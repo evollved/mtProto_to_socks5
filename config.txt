@@ -1,0 +1,8 @@
+# MTProto Proxy Configuration
+MT_PROXY_HOST = your_mtproto_proxy_ip
+MT_PROXY_PORT = 443
+MT_PROXY_SECRET = your_mtproto_secret
+
+# SOCKS5 Proxy Configuration
+SOCKS5_HOST = 127.0.0.1
+SOCKS5_PORT = 1080
